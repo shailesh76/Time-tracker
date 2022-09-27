@@ -1,0 +1,5 @@
+{
+    "kite.codefinder.enableLineDecoration": true,
+    "kite.enableOptionalCompletionsTriggers": true,
+    "kite.developerMode": true
+}
